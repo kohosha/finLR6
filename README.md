@@ -88,3 +88,11 @@
 - Создана ветка для отчёта (с помощью git branch)
 
 ![Настройка](https://github.com/kohosha/finLR6/blob/report/screens/22.jpg)
+
+- Создан скриншот окна редактора: 
+
+![Скриншот](https://github.com/kohosha/finLR6/blob/report/screens/24.jpg)
+
+- История операций в форматированном виде: 
+
+![Операции](https://github.com/kohosha/finLR6/blob/report/screens/23.jpg)
